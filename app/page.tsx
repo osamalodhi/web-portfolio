@@ -70,8 +70,8 @@ export default function Home() {
 
       <div className="absolute bottom-0 right-0 z-[10]">
         <Image
-          src="/lion2.png"
-          alt="tiger"
+          src="/horse.png"
+          alt="horse"
           height={300}
           width={300}
           className="absolute right-55 top-40"
